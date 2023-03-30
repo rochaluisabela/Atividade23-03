@@ -1,3 +1,5 @@
+//feito por Isabela Rocha e Ronald Pereira
+
 int main() {
     string mensagem;
     cout << "Digite uma mensagem: ";
