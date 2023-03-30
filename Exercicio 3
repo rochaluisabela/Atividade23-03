@@ -1,3 +1,5 @@
+//feito por Isabela Rocha e Ronald Pereira
+
 string transforma_nome(string nome) {
     vector<string> partes;
     string parte;
